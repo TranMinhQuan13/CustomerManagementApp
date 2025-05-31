@@ -9,18 +9,18 @@
     },
     {
         "ma_kh": "KH002",
-        "ten_kh": "Nguyễn Văn A",
+        "ten_kh": "Nguyễn Văn B",
         "sdt": "0898525072",
-        "email": "nva@example.com",
-        "dia_chi": "789 Nguyễn Trãi, Hà Nội",
-        "gioi_tinh": "Nữ"
+        "email": "nvb@example.com",
+        "dia_chi": "516 Nguyễn Trãi, Hà Nội",
+        "gioi_tinh": "Nam"
     },
     {
         "ma_kh": "KH003",
-        "ten_kh": "Nguyễn Văn A",
+        "ten_kh": "Nguyễn Văn C",
         "sdt": "0898525073",
-        "email": "nva@example.com",
-        "dia_chi": "789 Nguyễn Trãi, Hà Nội",
+        "email": "nvc@example.com",
+        "dia_chi": "712 Nguyễn Trãi, Hà Nội",
         "gioi_tinh": "Nữ"
     }
 ]
