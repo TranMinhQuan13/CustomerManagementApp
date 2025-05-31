@@ -1,0 +1,26 @@
+[
+    {
+        "ma_kh": "KH001",
+        "ten_kh": "Nguyễn Văn A",
+        "sdt": "0898525074",
+        "email": "nva@example.com",
+        "dia_chi": "789 Nguyễn Trãi, Hà Nội",
+        "gioi_tinh": "Nữ"
+    },
+    {
+        "ma_kh": "KH002",
+        "ten_kh": "Nguyễn Văn A",
+        "sdt": "0898525072",
+        "email": "nva@example.com",
+        "dia_chi": "789 Nguyễn Trãi, Hà Nội",
+        "gioi_tinh": "Nữ"
+    },
+    {
+        "ma_kh": "KH003",
+        "ten_kh": "Nguyễn Văn A",
+        "sdt": "0898525073",
+        "email": "nva@example.com",
+        "dia_chi": "789 Nguyễn Trãi, Hà Nội",
+        "gioi_tinh": "Nữ"
+    }
+]
